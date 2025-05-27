@@ -31,6 +31,10 @@
 - [!EX03-07 Tips](EX03_07_Tips.ipynb)
 
 ## 04 Machine Learning
+- [EX04-01 汽車車型數值資料轉換]()
+- [EX04-02 客戶基本資料編碼]()
+- [EX04-03 客戶分群]()
+- [EX04-04 加州房價]()
 
 ## 05 Web API
 - [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
