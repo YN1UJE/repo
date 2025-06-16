@@ -46,5 +46,5 @@
 
 ## Homework
 - [HW02 Web Crawler](hw02.ipynb)
-- [HW03 Data Analysis]()
+- [HW03 Data Analysis](hw03.ipynb)
 
