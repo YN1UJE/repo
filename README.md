@@ -28,7 +28,7 @@
 - [EX03_04 薪情平台](EX03_04_薪情平台.ipynb)
 - [EX03-05 台灣股票市場個股每日成交資訊](EX03_05_台灣股票市場個股每日成交資訊.ipynb)
 - [EX03-06 出生人口數](EX03_06_出生人口數.ipynb)
-- [!EX03-07 Tips](EX03_07_Tips.ipynb)
+- [EX03-07 Tips](EX03_07_Tips.ipynb)
 
 ## 04 Machine Learning
 - [EX04-01 汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
