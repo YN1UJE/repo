@@ -49,5 +49,5 @@
 - [HW03 Data Analysis](hw03.ipynb)
 
 ## Final Report
-- [Final Report]()
+- [Final Report: LINE Bot Gemini 聊天機器人](rp05.ipynb)
 
